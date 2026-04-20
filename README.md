@@ -1,6 +1,6 @@
 ## 📊 Airbnb Revenue Trends
 
-![Airbnb Revenue Trends](airbnb_revenue_trends.png)
+![Airbnb Revenue Trends](Airbnb_Revenue_Trends.png)
 
 
 

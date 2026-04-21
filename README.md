@@ -1,5 +1,9 @@
 ## 📊 Airbnb Revenue Trends
 
+
+## Tableau Dashboard
+[Airbnb Revenue Trends](https://public.tableau.com/app/profile/yusei.hosoya/viz/AirbnbPriceproject/Dashboard1)
+
 ![Airbnb Revenue Trends](Airbnb＿Revenue＿Trends.png)
 
 
